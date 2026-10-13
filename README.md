@@ -43,6 +43,6 @@ Location-based reading app: chapters unlock when you reach a place. Flows, brand
 Research ─► Architecture ─► Design system ─► Spec ─► AI-assisted build ─► QA ─► Usability testing ─► Iterate
 ```
 
-**Design:** Figma (variables, components, Auto Layout), FigJam, Material Design 3, design systems, WCAG
-**Research:** interviews, surveys, usability testing, Maze, Useberry, heuristic evaluation
-**Build:** Claude Code, Claude MCP for Figma (design ↔ code), Figma Make, Lovable, Stitch, Flutter, Firebase, React, Tailwind, HTML, CSS, Git, Vercel
+- **Design:** Figma (variables, components, Auto Layout), FigJam, Material Design 3, design systems, WCAG
+- **Research:** interviews, surveys, usability testing, Maze, Useberry, heuristic evaluation
+- **Build:** Claude Code, Claude MCP for Figma (design ↔ code), Figma Make, Lovable, Stitch, Flutter, Firebase, React, Tailwind, HTML, CSS, Git, Vercel
